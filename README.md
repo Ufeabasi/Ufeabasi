@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ufeabasi
-- 👀 I’m interested in website design and software development
+- 👀 I’m interested in website design i use HTML CSS and Javascript
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me. Facebook; Ufeabasi B Essien
